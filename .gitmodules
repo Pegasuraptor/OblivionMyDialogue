@@ -1,0 +1,4 @@
+[submodule "DrahsidLib"]
+	path = DrahsidLib
+	url = https://github.com/Drahsid/DrahsidLib.git
+	branch = master
